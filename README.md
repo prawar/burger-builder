@@ -29,7 +29,7 @@ A Burger builder application. You can add ingredients and give your contact deta
 
 * Learning basics of react and dive deeper into development by creating a simple project.
 
-## If hosted, provide the website link/APK
+##  the website link/APK
 
 * __A bug in build versoin of the project. so you have to click burger-builder option in navbar to navigate into the page.__
 
