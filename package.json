@@ -1,6 +1,5 @@
 {
   "name": "burger-builder",
-  "homepage": " https://prawar.github.io/burger-builder/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
