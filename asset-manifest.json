@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/burger-builder/static/css/main.aef8fc2f.chunk.css",
+    "main.js": "/burger-builder/static/js/main.15a1d555.chunk.js",
+    "main.js.map": "/burger-builder/static/js/main.15a1d555.chunk.js.map",
+    "runtime-main.js": "/burger-builder/static/js/runtime-main.2443f8e6.js",
+    "runtime-main.js.map": "/burger-builder/static/js/runtime-main.2443f8e6.js.map",
+    "static/js/2.e1f0c9c1.chunk.js": "/burger-builder/static/js/2.e1f0c9c1.chunk.js",
+    "static/js/2.e1f0c9c1.chunk.js.map": "/burger-builder/static/js/2.e1f0c9c1.chunk.js.map",
+    "static/js/3.98aec3a4.chunk.js": "/burger-builder/static/js/3.98aec3a4.chunk.js",
+    "static/js/3.98aec3a4.chunk.js.map": "/burger-builder/static/js/3.98aec3a4.chunk.js.map",
+    "index.html": "/burger-builder/index.html",
+    "static/css/main.aef8fc2f.chunk.css.map": "/burger-builder/static/css/main.aef8fc2f.chunk.css.map",
+    "static/js/2.e1f0c9c1.chunk.js.LICENSE.txt": "/burger-builder/static/js/2.e1f0c9c1.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.ec69c7f6.png": "/burger-builder/static/media/burger-logo.ec69c7f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2443f8e6.js",
+    "static/js/2.e1f0c9c1.chunk.js",
+    "static/css/main.aef8fc2f.chunk.css",
+    "static/js/main.15a1d555.chunk.js"
+  ]
+}
