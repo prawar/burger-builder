@@ -34,8 +34,7 @@ A Burger builder application. You can add ingredients and give your contact deta
 * __A bug in build versoin of the project. so you have to click burger-builder option in navbar to navigate into the page.__
 
 * Link 
-
-      https://prawar.github.io/burger-builder/
+ [Burger-Builder](https://prawar.github.io/burger-builder/)
 
 
 
