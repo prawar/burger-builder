@@ -5,7 +5,7 @@
 A Burger builder application. You can add ingredients and give your contact details and select payment method and place your order.
 
 ## Main Features
-* Burger-Builder Page - In this page You can select ingredients from given options. After clicking a order now button a ``preview`` page will pop up with price and and ingredients you select.You can go back or continue. After Continue you will see a preview of your burger on this you can also continue or go back. After Continue You will see a form for contact details after filling your contact details you can place your order.
+* Burger-Builder Page - In this page You can select ingredients from given options. After clicking a order now button a `preview` page will pop up with price and and ingredients you selected.You can go back or continue. After Continue you will see a `preview of your burger` on this you can also continue or go back. After Continue You will see a `form` for contact details after filling your contact details you can place your order.
 
 * Orders Page - In this page youcan access all your past orders with ingredients and price details.
 
@@ -45,7 +45,7 @@ A Burger builder application. You can add ingredients and give your contact deta
 In the project directory, you can run:
 
 
-### npm install
+### `npm install`
 
 To install all require dependencies.
 
